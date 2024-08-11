@@ -1,0 +1,119 @@
+.indexbody{
+    background-image: url(https://i.ytimg.com/vi/D4eic1JWVL0/maxresdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+
+
+.icebody{
+    background-image: url(https://cdn.pixabay.com/animation/2023/03/01/02/30/02-30-02-751_512.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+
+}
+.icetext{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.deathbody{
+    
+    background-image: url(https://i.pinimg.com/originals/56/e9/36/56e9367fa1d4ec7a49a23cbe9f979c0c.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.deathtext{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.stormbody{
+    background-image: url(https://i.pinimg.com/originals/0b/21/f6/0b21f6ad37b9c694b0a4f8640978ff9c.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.stormtext{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.firebody{
+    background-image: url(https://i.pinimg.com/originals/90/a6/f4/90a6f42dd08a868e0d8f94bd1a3a9b59.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.firetext{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.mainpage{
+    font-size: 30px;
+    text-align: center;
+    
+    margin-bottom: 500px;
+    font-style: italic;
+    
+}
+
+.lifebody{
+    background-image: url(https://i.pinimg.com/originals/17/bb/89/17bb89c8ad49b9a4db27e5b798609339.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed; 
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.lifetext{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.home-link{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.home-link:hover{
+    text-decoration: underline;
+}
